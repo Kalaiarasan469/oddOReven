@@ -8,7 +8,7 @@ void get()
 {
     cout<<"Input:"<<endl;
 cin>>a;
-if(a<0)
+if(a<=0)
 {
 get();
 }
